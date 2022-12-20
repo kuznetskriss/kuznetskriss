@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hi, I’m Kuznetsova Kristina
 
-<!--
-**smithy74/smithy74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
+**-** 👩🏼‍💻 HTML, CSS, 1C, C/C#
+**-** 👩🏼‍🎓 Python, JS, C++, SQL 
+**-** 🌿 Git, Linux
 
-Here are some ideas to get you started:
+## Summary:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**-** 🌱 Student of [**21 School**](https://21-school.ru)
+**-** 🎓 Student of [**CHENK**](https://www.chenk.ru/ru/), Information systems and programming
+**-** 👩🏼‍💼 Work as 1С-developer in [**1C:Rarus**](https://rarus.ru/)
+
+## Contact:
+| 📫 kuznetsovakd04@yandex.ru |

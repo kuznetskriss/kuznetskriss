@@ -18,8 +18,7 @@
 
 ## Education:
 
-
-|  [STEPIK](https://stepik.org/users/518716069) | [nyarlath's 21 stats](https://edu.21-school.ru/profile/nyarlath@student.21-school.ru) |
+|  [STEPIK](https://stepik.org/users/518716069) | [nyarlath's 21 stats](https://edu.21-school.ru/profile/nyarlath@student.21-school.ru) | [Certificates](certificates/certificates.md)|
 
 ## Contact:
 

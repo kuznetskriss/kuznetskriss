@@ -22,7 +22,7 @@
 
 ## Contact:
 
-| 📫 kuznetsovakd04@yandex.ru |
+| 📫 kuznetsovakd04@yandex.ru | 🕊 [Telegram](https://t.me/kkkkkristyusha) |📱 [VK](https://vk.com/feed) |
 
 | [![smithy74 Github stats](https://github-readme-stats.vercel.app/api?username=smithy74&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/smithy74?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smithy74&layout=compact&hide_border=true)](https://github.com/smithy74?tab=repositories) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

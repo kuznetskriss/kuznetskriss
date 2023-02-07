@@ -30,7 +30,7 @@
 * **VCS:** *Git, GitHub, GitLabs, BitBucket*
 * **Front:** *HTML, CSS, JS(junior), XAML, QT*
 * **Back:** *1C, Python, C, C#/C++(junior)*
-* **Data:** *JSON, , API, XML*, DataFile(.xlxs, .csv and etc.)*
+* **Data:** *JSON, , API, XML*, DataFile(.xlxs, .csv and etc.)
 * **Libs:** *Django, Pandas, Numpy, Fast(junior), Bootstrap4/5, .Net, .Core*
 * **DevOps:** *Networks, Apache, FIrewall, DNS, Requests, Docker*
 

@@ -15,8 +15,11 @@
 ## **Soft Skills:**
 
 **-** ⏱ Time-managemenе | Self-managment
+
 **-** 💡 Agile | Scrum
+
 **-** 📊 Word with BigData
+
 **-** 🙏🏻 Teamplayer
 
 ## Hard Skills:

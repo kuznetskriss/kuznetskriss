@@ -34,6 +34,37 @@
 * **Libs:** *Django, Pandas, Numpy, Fast(junior), Bootstrap4/5, .Net, .Core*
 * **DevOps:** *Networks, Apache, FIrewall, DNS, Requests, Docker*
 
+## Projects List:
+
+### Web
+
+| Name   | Descriptions                             | Tools          |
+| ------ | ---------------------------------------- | -------------- |
+| blog   | Blog of IT and Life                      | in development |
+| trible | Webservice to improve everyday processes | in development |
+
+### Python
+
+| Name         | Descriptions | Tools          |
+| ------------ | ------------ | -------------- |
+| telegram-bot | development  | in development |
+
+### DevOps
+
+| Name                                                          | Descriptions                                     | Tools              |
+| ------------------------------------------------------------- | ------------------------------------------------ | ------------------ |
+| [linux-monitoring](https://github.com/smithy74/linux-monitoring) | Linux basic bash scripting and system research.C | Linux System, Bash |
+| docker                                                        | Containers, Deployin development                 | in development     |
+| CI/CD                                                         | -                                                | in development     |
+
+### C/C++
+
+| Name                                          | Descriptions                          | Tools                           |
+| --------------------------------------------- | ------------------------------------- | ------------------------------- |
+| [matrix-c](https://github.com/smithy74/matrix-c) | Realization libs matrix.h on C        | C, Makefile, Unit-test          |
+| in development                                | Calculator in QT and with back on C | C, C++, QT, Unit-test, Makefile |
+| in development                                | 3d_viewer                             | C++, QT                         |
+
 ## Education:
 
 |  [STEPIK](https://stepik.org/users/518716069) | [nyarlath&#39;s 21 stats](https://edu.21-school.ru/profile/nyarlath@student.21-school.ru) | [Certificates](certificates/certificates.md)|

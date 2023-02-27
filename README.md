@@ -69,9 +69,5 @@
 
 |  [STEPIK](https://stepik.org/users/518716069) | [nyarlath&#39;s 21 stats](https://edu.21-school.ru/profile/nyarlath@student.21-school.ru) | [Certificates](certificates/certificates.md)|
 
-## Contact:
-
-| 📫 kris74smithy@yandex.ru | 🕊 [Telegram](https://t.me/kkkkkristyusha) |📱 [VK](https://vk.com/kkkkkristyusha) |
-
 | [![smithy74 Github stats](https://github-readme-stats.vercel.app/api?username=smithy74&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/smithy74?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smithy74&layout=compact&hide_border=true)](https://github.com/smithy74?tab=repositories) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

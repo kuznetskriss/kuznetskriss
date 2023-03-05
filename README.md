@@ -59,13 +59,14 @@
 
 ### C/C++
 
-| Name                                          | Descriptions                          | Tools                           |
-| --------------------------------------------- | ------------------------------------- | ------------------------------- |
-| [matrix-c](https://github.com/smithy74/matrix-c) | Realization libs matrix.h on C        | C, Makefile, Unit-test          |
-| Calculator (in development)                   | Calculator in QT and with back on C | C, C++, QT, Unit-test, Makefile |
-| 3d_viewer (in development)                    | 3d_viewer                             | C++, QT                         |
-| game-pong (in development)                    | console game                          | C, ncurses                     |
-| game-of-life (in development)                 | console game                          | C, ncurses                     |
+| Name                                                                                 | Descriptions                          | Tools                           |
+| ------------------------------------------------------------------------------------ | ------------------------------------- | ------------------------------- |
+| [matrix-c](https://github.com/smithy74/matrix-c)                                        | Realization libs matrix.h on C        | C, Makefile, Unit-test          |
+| [logger-c](https://github.com/smithy74/[logger-c](https://github.com/smithy74/logger-c) | Realization libs logger.h on C        | C, Makefile                     |
+| Calculator (in development)                                                          | Calculator in QT and with back on C | C, C++, QT, Unit-test, Makefile |
+| 3d_viewer (in development)                                                           | 3d_viewer                             | C++, QT                         |
+| game-pong (in development)                                                           | console game                          | C, ncurses                     |
+| game-of-life (in development)                                                        | console game                          | C, ncurses                     |
 
 ## Manuals:
 

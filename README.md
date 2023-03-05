@@ -38,10 +38,10 @@
 
 ### Web
 
-| Name   | Descriptions                             | Tools          |
-| ------ | ---------------------------------------- | -------------- |
-| blog   | Blog of IT and Life                      | in development |
-| trible | Webservice to improve everyday processes | in development |
+| Name                                      | Descriptions                             | Tools          |
+| ----------------------------------------- | ---------------------------------------- | -------------- |
+| blog                                      | Webservice Mass Media                   | in development |
+| [trible](https://github.com/smithy74/trible) | Webservice to improve everyday processes | in development |
 
 ### Python
 
@@ -51,19 +51,27 @@
 
 ### DevOps
 
-| Name                                                          | Descriptions                                     | Tools              |
-| ------------------------------------------------------------- | ------------------------------------------------ | ------------------ |
-| [linux-monitoring](https://github.com/smithy74/linux-monitoring) | Linux basic bash scripting and system research.C | Linux System, Bash |
-| docker                                                        | Containers, Deployin development                 | in development     |
-| CI/CD                                                         | -                                                | in development     |
+| Name                                                          | Descriptions                                     | Tools                      |
+| ------------------------------------------------------------- | ------------------------------------------------ | -------------------------- |
+| [linux-monitoring](https://github.com/smithy74/linux-monitoring) | Linux basic bash scripting and system research.C | Linux System, Bash         |
+| docker (in development)                                       | Containers, Deployin development                 | Linux System, Bash, Docker |
+| CI/CD (in development)                                        | -                                                | -                          |
 
 ### C/C++
 
 | Name                                          | Descriptions                          | Tools                           |
 | --------------------------------------------- | ------------------------------------- | ------------------------------- |
 | [matrix-c](https://github.com/smithy74/matrix-c) | Realization libs matrix.h on C        | C, Makefile, Unit-test          |
-| in development                                | Calculator in QT and with back on C | C, C++, QT, Unit-test, Makefile |
-| in development                                | 3d_viewer                             | C++, QT                         |
+| Calculator (in development)                   | Calculator in QT and with back on C | C, C++, QT, Unit-test, Makefile |
+| 3d_viewer (in development)                    | 3d_viewer                             | C++, QT                         |
+| game-pong (in development)                    | console game                          | C, ncurses                     |
+| game-of-life (in development)                 | console game                          | C, ncurses                     |
+
+## Manuals:
+
+| Name                                                                                                                               | Descriptions                    | Tools                            |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------- |
+| [config-vm-for-web-servic](https://github.com/smithy74/config-vm-for-web-servicehttps://github.com/smithy74/config-vm-for-web-servic) | Setting VM TimeWeb for services | TimeWeb, SSH, VM, Network, Linux |
 
 ## Education:
 

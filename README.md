@@ -16,7 +16,7 @@
 
 * **Design programs:** *Photoshop, Figma*
 * **IDE:** *VSCode, Visiual Studio, Configurator 1С :)*
-* **DBMS:** *SQLiteStudio, MySql, Microsoft SQL Server, phpMyAdmin*
+* **DBMS:** *SQLiteStudio, MySql, Microsoft SQL Server, phpMyAdmin, Postgresql*
 * **VCS:** *Git, GitHub, GitLabs, BitBucket*
 * **Front:** *HTML, CSS, JS(junior), XAML, QT*
 * **Back:** *1C, Python, C, C#/C++(junior)*
@@ -50,6 +50,13 @@
 | calculator-cpp          | Calculator in QT and with back on C++ | C++, QT, Unit-test, Makefile | in development
 | 3dviewer-c                     | 3D Viewer                             | C++, QT                         | in development
 | 3dviewer-cpp                     | 3D Viewer                             | C++, QT                         | in development
+
+### Pools
+
+| Name                                      | Descriptions                             | Tools          | Stage          |
+| ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
+| [test-pool-Python-11_22 -c](https://github.com/smithy74/test-pool-Python-11_22) | Test pool by Python in 21school        | Python, Pandas, Numpy         | finish
+| [sql-pool](https://github.com/smithy74/sql-pool) | Pool by SQL in 21school        | SQL, Postgresql          | in development
 ## Manuals:
 
 | Name                                      | Descriptions                             | Tools          | Stage          |

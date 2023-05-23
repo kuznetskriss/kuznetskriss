@@ -12,17 +12,7 @@
 
 **At the transition stage**: *study -> work*
 
-## **Soft Skills:**
-
-**-** ⏱ Time-managemenе | Self-managment
-
-**-** 💡 Agile | Scrum
-
-**-** 📊 Word with BigData
-
-**-** 🙏🏻 Teamplayer
-
-## Hard Skills:
+## Languages and Tools:
 
 * **Design programs:** *Photoshop, Figma*
 * **IDE:** *VSCode, Visiual Studio, Configurator 1С :)*
@@ -32,51 +22,43 @@
 * **Back:** *1C, Python, C, C#/C++(junior)*
 * **Data:** *JSON, , API, XML*, DataFile(.xlxs, .csv and etc.)
 * **Libs:** *Django, Pandas, Numpy, Fast(junior), Bootstrap4/5, .Net, .Core*
-* **DevOps:** *Networks, Apache, FIrewall, DNS, Requests, Docker*
+* **DevOps:** *Networks, Apache, Firewall, DNS, Requests, Docker, Monitoring system*
 
 ## Projects List:
 
 ### Web
 
-| Name                                      | Descriptions                             | Tools          |
-| ----------------------------------------- | ---------------------------------------- | -------------- |
-| blog                                      | Webservice Mass Media                   | in development |
-| [trible](https://github.com/smithy74/trible) | Webservice to improve everyday processes | in development |
-
-### Python
-
-| Name         | Descriptions | Tools          |
-| ------------ | ------------ | -------------- |
-| telegram-bot | development  | in development |
+| Name                                      | Descriptions                             | Tools          | Stage          |
+| ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
+| [trible](https://github.com/smithy74/trible) | Assistant in Personal Finance and Investment Management  | Django, Postgresql | in development |
 
 ### DevOps
 
-| Name                                                          | Descriptions                                     | Tools                      |
-| ------------------------------------------------------------- | ------------------------------------------------ | -------------------------- |
-| [linux-monitoring](https://github.com/smithy74/linux-monitoring) | Linux basic bash scripting and system research.C | Linux System, Bash         |
-| docker (in development)                                       | Containers, Deployin development                 | Linux System, Bash, Docker |
-| CI/CD (in development)                                        | -                                                | -                          |
+| Name                                      | Descriptions                             | Tools          | Stage          |
+| ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
+| [linux-monitoring](https://github.com/smithy74/linux-monitoring) | Linux basic bash scripting and system research.C | Linux System, Bash, GoAccses, Grafana         | finish |
+| docker                               | Containers, Deployin development                 | Linux System, Bash, Docker | in development |
+| cicd                                    | -                                          | -                          | in development |
 
 ### C/C++
 
-| Name                                          | Descriptions                          | Tools                           |
-| --------------------------------------------- | ------------------------------------- | ------------------------------- |
-| [matrix-c](https://github.com/smithy74/matrix-c) | Realization libs matrix.h on C        | C, Makefile, Unit-test          |
-| [logger-c](https://github.com/smithy74/logger-c) | Realization libs logger.h on C        | C, Makefile                     |
-| Calculator (in development)                   | Calculator in QT and with back on C | C, C++, QT, Unit-test, Makefile |
-| 3d_viewer (in development)                    | 3d_viewer                             | C++, QT                         |
-| game-pong (in development)                    | console game                          | C, ncurses                     |
-| game-of-life (in development)                 | console game                          | C, ncurses                     |
-
+| Name                                      | Descriptions                             | Tools          | Stage          |
+| ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
+| [matrix-c](https://github.com/smithy74/matrix-c) | Realization libs matrix.h on C        | C, Makefile, Unit-test          | finish
+| matrix-cpp | Realization libs matrix.h on C++        | C++, Makefile, Gtests          | in development
+| calculator-c          | Calculator in QT and with back on C | C, C++, QT, Unit-test, Makefile | in development
+| calculator-cpp          | Calculator in QT and with back on C++ | C++, QT, Unit-test, Makefile | in development
+| 3dviewer-c                     | 3D Viewer                             | C++, QT                         | in development
+| 3dviewer-cpp                     | 3D Viewer                             | C++, QT                         | in development
 ## Manuals:
 
-| Name                                                                           | Descriptions                    | Tools                                                  |
-| ------------------------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------ |
-| [config-vm-for-web-servic](https://github.com/smithy74/config-vm-for-web-service) | Setting VM TimeWeb for services | TimeWeb, SSH, VM, Network, Linux, Nginx, Gunicorn, DB |
+| Name                                      | Descriptions                             | Tools          | Stage          |
+| ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
+|  | |  |
 
 ## Education:
 
 |  [STEPIK](https://stepik.org/users/518716069) | [nyarlath&#39;s 21 stats](https://edu.21-school.ru/profile/nyarlath@student.21-school.ru) | [Certificates](certificates/certificates.md)|
 
-| [![smithy74 Github stats](https://github-readme-stats.vercel.app/api?username=smithy74&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/smithy74?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smithy74&layout=compact&hide_border=true)](https://github.com/smithy74?tab=repositories) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![smithy74 Github stats](https://github-readme-stats.vercel.app/api?username=smithy74&show_icons=true&theme=radical)](https://github.com/smithy74?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smithy74&hide_progress=true&show_icons=true&theme=radical)](https://github.com/smithy74/github-readme-stats) |
+-------------- | -------------- |

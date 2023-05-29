@@ -19,9 +19,9 @@
 * **DBMS:** *SQLiteStudio, MySql, Microsoft SQL Server, phpMyAdmin, Postgresql*
 * **VCS:** *Git, GitHub, GitLabs, BitBucket*
 * **Front:** *HTML, CSS, JS(junior), XAML, QT*
-* **Back:** *1C, Python, C, C#/C++(junior)*
+* **Back:** *1C, Python, C, C#/C++*
 * **Data:** *JSON, , API, XML*, DataFile(.xlxs, .csv and etc.)
-* **Libs:** *Django, Pandas, Numpy, Fast(junior), Bootstrap4/5, .Net, .Core*
+* **Libs:** *Django, Pandas, Numpy, Fast, Bootstrap4/5, .Net, .Core*
 * **DevOps:** *Networks, Apache, Firewall, DNS, Requests, Docker, Monitoring system*
 
 ## Projects List:

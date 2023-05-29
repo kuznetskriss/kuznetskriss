@@ -40,16 +40,27 @@
 | docker                               | Containers, Deployin development                 | Linux System, Bash, Docker | in development |
 | cicd                                    | -                                          | -                          | in development |
 
-### C/C++
+### C
 
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
 | [matrix-c](https://github.com/smithy74/matrix-c) | Realization libs matrix.h on C        | C, Makefile, Unit-test          | finish
-| matrix-cpp | Realization libs matrix.h on C++        | C++, Makefile, Gtests          | in development
 | calculator-c          | Calculator in QT and with back on C | C, C++, QT, Unit-test, Makefile | in development
-| calculator-cpp          | Calculator in QT and with back on C++ | C++, QT, Unit-test, Makefile | in development
 | 3dviewer-c                     | 3D Viewer                             | C++, QT                         | in development
+
+### C++
+
+| Name                                      | Descriptions                             | Tools          | Stage          |
+| ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
+| matrix-cpp | Realization libs matrix.h on C++        | C++, Makefile, Gtests          | in development
+| calculator-cpp          | Calculator in QT and with back on C++ | C++, QT, Unit-test, Makefile | in development
 | 3dviewer-cpp                     | 3D Viewer                             | C++, QT                         | in development
+
+### C#
+
+| Name                                      | Descriptions                             | Tools          | Stage          |
+| ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
+| [qwerty-shop](https://github.com/smithy74/qwerty-shop)  | Website for a hardware store         | C#, .Core, .Net, Razor, API          | in development
 
 ### Pools
 

@@ -3,7 +3,7 @@
 
 ## A little about me:
 
-**-** 🌱 Student of [**21 School**]([https://21-school.ru](https://21-school.ru/?utm_source=school21&utm_medium=student_kzn&utm_campaign=nyarlath___))
+**-** 🌱 Student of [**21 School**](https://21-school.ru/?utm_source=school21&utm_medium=student_kzn&utm_campaign=nyarlath___)
 
 **-** 🎓 Student of [**CHENK**](https://www.chenk.ru/ru/), Information systems and programming
 

@@ -1,3 +1,5 @@
+# 👋🏻 I am a software engineer from Russia with 3 years of experience in the software industry. Over the past few months, my main focus has been 1C development in 1C-rarus, but I am also well versed in server and web development, Python and C languages. I like to learn new technologies and implement them into commercial projects and my own.
+
 # A little about me:
 
 **-** 🌱 Student of [**21 School**](https://21-school.ru)

@@ -40,7 +40,7 @@
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
 | [linux-monitoring](https://github.com/smithy74/linux-monitoring) | Linux basic bash scripting and system research.C | Linux System, Bash, GoAccses, Grafana         | finish |
-| [simple-docker](https://github.com/smithy74/simple-docker)                               | Containers, Deployin development                 | Linux System, Bash, Docker | finish |
+| [simple-docker](https://github.com/smithy74/simple-docker)                               | Containers, Deploy in development                 | Linux System, Bash, Docker | finish |
 | cicd                                    | -                                          | -                          | in development |
 
 ### C

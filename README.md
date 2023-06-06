@@ -40,7 +40,7 @@
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
 | [linux-monitoring](https://github.com/smithy74/linux-monitoring) | Linux basic bash scripting and system research.C | Linux System, Bash, GoAccses, Grafana         | finish |
-| docker                               | Containers, Deployin development                 | Linux System, Bash, Docker | in development |
+| [simple-docker](https://github.com/smithy74/simple-docker)                               | Containers, Deployin development                 | Linux System, Bash, Docker | finish |
 | cicd                                    | -                                          | -                          | in development |
 
 ### C
@@ -70,7 +70,7 @@
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
 | [test-pool-Python-11_22 -c](https://github.com/smithy74/test-pool-Python-11_22) | Test pool by Python in 21school        | Python, Pandas, Numpy         | finish
-| [sql-pool](https://github.com/smithy74/sql-pool) | Pool by SQL in 21school        | SQL, Postgresql          | in development
+| [sql-pool](https://github.com/smithy74/sql-pool) | Pool by SQL in 21school        | SQL, Postgresql          | finish
 ## Manuals:
 
 | Name                                      | Descriptions                             | Tools          | Stage          |

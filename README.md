@@ -34,6 +34,7 @@
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
 | [trible](https://github.com/smithy74/trible) | Assistant in Personal Finance and Investment Management  | Django, Postgresql | in development |
+| [qwerty-shop](https://github.com/smithy74/qwerty-shop)  | Website for a hardware store         | C#, ASP.NET Core, Razor Pages, API  | in development
 
 ### DevOps
 
@@ -63,7 +64,7 @@
 
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
-| [qwerty-shop](https://github.com/smithy74/qwerty-shop)  | Website for a hardware store         | C#, .Core, .Net, Razor, API          | in development
+| [qwerty-shop](https://github.com/smithy74/qwerty-shop)  | Website for a hardware store         | C#, ASP.NET Core, Razor Pages, API  | in development
 
 ### Pools
 

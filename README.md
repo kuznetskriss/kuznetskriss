@@ -82,5 +82,5 @@
 
 |  [STEPIK](https://stepik.org/users/518716069) | [nyarlath&#39;s 21 stats](https://edu.21-school.ru/profile/nyarlath@student.21-school.ru) | [Certificates](certificates/certificates.md)|
 
-| [![smithy74 Github stats](https://github-readme-stats.vercel.app/api?username=smithy74&show_icons=true&theme=radical)](https://github.com/smithy74?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smithy74&hide_progress=true&show_icons=true&theme=radical)](https://github.com/smithy74/github-readme-stats) |
+| [![kuznetskriss Github stats](https://github-readme-stats.vercel.app/api?username=kuznetskriss&show_icons=true&theme=radical)](https://github.com/kuznetskriss?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuznetskriss&hide_progress=true&show_icons=true&theme=radical)](https://github.com/kuznetskriss/github-readme-stats) |
 -------------- | -------------- |

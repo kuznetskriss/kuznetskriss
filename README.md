@@ -33,22 +33,22 @@
 
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
-| [trible](https://github.com/smithy74/trible) | Assistant in Personal Finance and Investment Management  | Django, Postgresql | in development |
-| [qwerty-shop](https://github.com/smithy74/qwerty-shop)  | Website for a hardware store         | C#, ASP.NET Core, Razor Pages, API  | in development
+| [trible](https://github.com/kuznetskriss/trible) | Assistant in Personal Finance and Investment Management  | Django, Postgresql | in development |
+| [qwerty-shop](https://github.com/kuznetskriss/qwerty-shop)  | Website for a hardware store         | C#, ASP.NET Core, Razor Pages, API  | in development
 
 ### DevOps
 
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
-| [linux-monitoring](https://github.com/smithy74/linux-monitoring) | Linux basic bash scripting and system research.C | Linux System, Bash, GoAccses, Grafana         | finish |
-| [simple-docker](https://github.com/smithy74/simple-docker)                               | Containers, Deploy in development                 | Linux System, Bash, Docker | finish |
-| cicd                                    | -                                          | -                          | in development |
+| [linux-monitoring](https://github.com/kuznetskriss/linux-monitoring) | Linux basic bash scripting and system research.C | Linux System, Bash, GoAccses, Grafana         | finish |
+| [simple-docker](https://github.com/kuznetskriss/simple-docker)                               | Containers, Deploy in development                 | Linux System, Bash, Docker | finish |
+| [cicd](https://github.com/kuznetskriss/cicd)                                     | CI/CD for project on GitLab                                         | CI/CD, Bash, Linux, Telegram-bot                          | finish |
 
 ### C
 
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
-| [matrix-c](https://github.com/smithy74/matrix-c) | Realization libs matrix.h on C        | C, Makefile, Unit-test          | finish
+| [matrix-c](https://github.com/kuznetskriss/matrix-c) | Realization libs matrix.h on C        | C, Makefile, Unit-test          | finish
 | calculator-c          | Calculator in QT and with back on C | C, C++, QT, Unit-test, Makefile | in development
 | 3dviewer-c                     | 3D Viewer                             | C++, QT                         | in development
 
@@ -64,14 +64,14 @@
 
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
-| [qwerty-shop](https://github.com/smithy74/qwerty-shop)  | Website for a hardware store         | C#, ASP.NET Core, Razor Pages, API  | in development
+| [qwerty-shop](https://github.com/kuznetskriss/qwerty-shop)  | Website for a hardware store         | C#, ASP.NET Core, Razor Pages, API  | in development
 
 ### Pools
 
 | Name                                      | Descriptions                             | Tools          | Stage          |
 | ----------------------------------------- | ---------------------------------------- | -------------- | -------------- |
-| [test-pool-Python-11_22 -c](https://github.com/smithy74/test-pool-Python-11_22) | Test pool by Python in 21school        | Python, Pandas, Numpy         | finish
-| [sql-pool](https://github.com/smithy74/sql-pool) | Pool by SQL in 21school        | SQL, Postgresql          | finish
+| [test-pool-Python-11_22 -c](https://github.com/kuznetskriss/test-pool-Python-11_22) | Test pool by Python in 21school        | Python, Pandas, Numpy         | finish
+| [sql-pool](https://github.com/kuznetskriss/sql-pool) | Pool by SQL in 21school        | SQL, Postgresql          | finish
 ## Manuals:
 
 | Name                                      | Descriptions                             | Tools          | Stage          |

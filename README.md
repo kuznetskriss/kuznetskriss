@@ -29,12 +29,15 @@
 | ------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------- | -------------- |
 | [projects-school21](https://github.com/kuznetskriss/projects-school21)                                    | Проекты от Школы21 | DevOps, C, SQL, Pools                 | в разработке |
 | [qwerty-shop](https://github.com/kuznetskriss/qwerty-shop) | Интернет магазин с сайтом для клиентов и приложениями для сотрудников - летняя курсовая работа | C#, ASP.NET Core, Razor Pages, API | в разработке |
+| [trible](https://github.com/kuznetskriss/trible) | Trible - веб-сервис учета личных финансов и инвестиций | Django, JS, HTML5, CSS3, Bootstrap5, Docker, Postgresql | в разработке |
 
 ## Статьи:
-~ данный раздел в разработке
-| Название | Описание |
-| ---- | ------------ |
-|      |              |
+
+[Мануал по установке окружения python](https://github.com/kuznetskriss/manuals/blob/main/linux/how-dowloads-python-venv.md)
+
+[Установка Django и Postgresql](https://github.com/kuznetskriss/manuals/blob/main/linux/how-install-django-and-postgresql.md)
+
+[Как создать requirements.txt](https://github.com/kuznetskriss/manuals/blob/main/python/how-using-requirements.md)
 
 ## Образование:
 

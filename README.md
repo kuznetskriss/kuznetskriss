@@ -46,9 +46,6 @@
 * [Сертификаты](certificates/certificates.md)
 
 ## Статистика:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=kuznetskriss&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuznetskriss&hide_progress=true&show_icons=true&theme=radical&size_weight=1" />
-</a>
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuznetskriss&layout=compact)
+```

@@ -46,6 +46,5 @@
 * [Сертификаты](certificates/certificates.md)
 
 ## Статистика:
-```md
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuznetskriss&layout=compact)
-```
